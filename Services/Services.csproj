@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Service\" />
+    <None Remove="Service\Inplementations\" />
+    <None Remove="Service\Interfaces\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Enums\" />
+    <None Remove="Helpers\Constants\" />
+    <None Remove="Helpers\Extentions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Service\" />
+    <Folder Include="Service\Inplementations\" />
+    <Folder Include="Service\Interfaces\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Enums\" />
+    <Folder Include="Helpers\Constants\" />
+    <Folder Include="Helpers\Extentions\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/Wn2NROrHv0aepTsO7nA/XuYyj/UmsLfUra0z37v8AhySt8qjGnQGWB3wBw1kfue5sKHkN2wYc7W/zdgqGbaw==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

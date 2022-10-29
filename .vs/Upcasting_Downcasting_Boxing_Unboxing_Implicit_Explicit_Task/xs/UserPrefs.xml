@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D642469D-BCC4-45D0-A6DF-1ACCBFA86062}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Upcasting__Downcasting__Boxing__Unboxing__Implicit__Explicit__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Program.cs">
+    <Files>
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Program.cs" Line="74" Column="1" />
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Models/Animal.cs" Line="7" Column="36" />
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Models/Bird.cs" Line="4" Column="21" />
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Models/Eagle.cs" Line="7" Column="22" />
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Models/Fish.cs" Line="4" Column="40" />
+      <File FileName="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task/Models/Shark.cs" Line="6" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task" expanded="True">
+            <Node name="Services" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="Constants" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Upcasting_Downcasting_Boxing_Unboxing_Implicit_Explicit_Task" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
